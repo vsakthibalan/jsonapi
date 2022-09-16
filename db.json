@@ -1,0 +1,38 @@
+{
+  "issues": [
+    {
+      "id": 1,
+      "description": "Hide or Show Dropdown when only one",
+      "severity": "Medium",
+      "status": "In Progress",
+      "dueDate": "12/10/1999"
+    },
+    {
+      "id": 2,
+      "description": "Should Accept Decimal Points",
+      "severity": "Medium",
+      "status": "To Do",
+      "dueDate": "12/10/1999"
+    },
+    {
+      "id": 3,
+      "description": "Remove White Spaces",
+      "severity": "Low",
+      "status": "To Do",
+      "dueDate": "12/10/1999"
+    }
+  ],
+  "users": [
+    {
+      "name": "Sakthibalan",
+      "email": "sakthibalan.v@philips.com",
+      "password": "Dada@080706",
+      "cpassword": "Dada@080706",
+      "location": "Coimbatore",
+      "birthdate": "2022-06-28T18:30:00.000Z",
+      "contact": 9942090629,
+      "agree": true,
+      "id": 1
+    }
+  ]
+}
